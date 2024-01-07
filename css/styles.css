@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.main_div{
+    width: 388px;
+    height: 370px;
+    padding: 0px, 16px, 16px, 16px;
+    margin: 40px;
+}
+.email_form {
+border: 1px solid #FFE44D;
+border-radius: 12px;
+padding: 7px, 16px, 7px, 16px;
+margin: 40px auto 10px;
+font-weight: 154px;
+}
+
+.pass_form{
+    border: 1px solid gray;
+    border-radius: 12px;
+    padding: 7px, 16px, 7px, 16px;
+    color: #CFD8DC;
+}
+.text_form {
+    margin: 30px auto;
+}
+.reg_form{
+    border: 1px solid #FFE44D;
+    border-radius: 55px;
+    padding: 14px, 24px, 14px, 24px;
+    background-color: #FFE44D;
+    margin: 0px auto 10px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: Nunito;
+}
+.enter_form{
+    border: 1px solid gray;
+    border-radius: 55px;
+    padding: 14px, 24px, 14px, 24px;
+    text-align: center;
+    font-weight: 700px;
+    font-size: 16px;
+    font-family: Nunito;
+}
